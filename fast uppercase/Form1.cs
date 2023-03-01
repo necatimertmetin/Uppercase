@@ -33,13 +33,18 @@ namespace fast_uppercase
 
         private void richTextBox1_MouseDown(object sender, MouseEventArgs e)
         {
-            if (e.Button == MouseButtons.Right)
+            if (e.Button == MouseButtons.Right  && !(richTextBox1.Text == "" || richTextBox1.Text == "KOPYALANAMADI. YAZI YOK"))
             {
                 richTextBox1.SelectAll();
                 Clipboard.SetText(richTextBox1.Text);
                 richTextBox1.Text = "KOPYALANDI";
             }
-            else
+            else if (e.Button == MouseButtons.Right && richTextBox1.Text == "")
+            {
+                
+                richTextBox1.Text = "KOPYALANAMADI. YAZI YOK";
+            }
+            else if(e.Button == MouseButtons.Left)
             {
                 richTextBox1.Text = Clipboard.GetText();
 
