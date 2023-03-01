@@ -1,0 +1,17 @@
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\bin\Debug\net6.0-windows\fast uppercase.exe
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\bin\Debug\net6.0-windows\fast uppercase.deps.json
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\bin\Debug\net6.0-windows\fast uppercase.runtimeconfig.json
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\bin\Debug\net6.0-windows\fast uppercase.dll
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\bin\Debug\net6.0-windows\fast uppercase.pdb
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.csproj.AssemblyReference.cache
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast_uppercase.Form1.resources
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.csproj.GenerateResource.cache
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.AssemblyInfoInputs.cache
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.AssemblyInfo.cs
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.csproj.CoreCompileInputs.cache
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.dll
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\refint\fast uppercase.dll
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.pdb
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\fast uppercase.genruntimeconfig.cache
+C:\Users\necat\source\repos\fast uppercase\fast uppercase\obj\Debug\net6.0-windows\ref\fast uppercase.dll
